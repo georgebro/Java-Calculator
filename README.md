@@ -1,2 +1,3 @@
-# Calculator-
-Calculator in JAVA 
+# Simple JAVA GUI Calculator App 
+
+ 
