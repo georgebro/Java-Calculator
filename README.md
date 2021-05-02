@@ -1,3 +1,4 @@
-#JAVA GUI Calculator  
+#Basic JAVA GUI project 
+#Calculator  
 
  
