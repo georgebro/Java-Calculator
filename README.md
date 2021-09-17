@@ -1,4 +1,4 @@
-#Basic JAVA GUI project 
-#Calculator  
+# GUI project 
+# JAVA Calculator  
 
  
