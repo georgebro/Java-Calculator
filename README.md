@@ -1,4 +1,4 @@
  # JAVA GUI Calculator.
- # Pure Java Code
+ # Pure Java Code.
 
  
