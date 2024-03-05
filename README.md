@@ -1,4 +1,4 @@
- # JAVA GUI Calculator.
+ # JAVA GUI Calculator
 
 
  
